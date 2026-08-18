@@ -3,6 +3,8 @@
 Course materials for **OL7014 Integer Programming** — lecture notes, interactive Python
 demos, and Colab-ready notebooks, updated weekly as the course progresses.
 
+📄 [Syllabus (PDF)](syllabus/%5B%EA%B0%95%EC%9D%98%EA%B3%84%ED%9A%8D%EC%84%9C%5D%EC%A0%95%EC%88%98%EA%B3%84%ED%9A%8D%EB%B2%95%28OL7014%29_26_2.pdf)
+
 ---
 
 ## Weekly materials
