@@ -9,7 +9,7 @@ demos, and Colab-ready notebooks, updated weekly as the course progresses.
 
 | Week | Topic | Lecture note | Notebook | Demo |
 |---|---|---|---|---|
-| 1 | Optimization is everywhere; LPs and IPs, graphically | _coming soon_ | _coming soon_ | _coming soon_ |
+| 1 | Optimization is everywhere; LPs and IPs, graphically | _coming soon_ | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hankpark0706/OL7014-integer-programming/blob/main/notebooks/week1_knapsack.ipynb) knapsack | _coming soon_ |
 | 2 | | | | |
 | 3 | | | | |
 | ... | | | | |
